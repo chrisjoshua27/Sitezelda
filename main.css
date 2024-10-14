@@ -20,9 +20,7 @@ form button {
     font-size: 2em;
 }
 body {
-    background-image: linear-gradient(to right , rgba(0, 128, 0, 0.212), rgba(128, 126, 0, 0.777), rgba(37, 255, 17, 0.288) );*/
-
-
+    background-image: linear-gradient(to right , rgba(11, 255, 11, 0.411), rgb(141, 205, 217), rgb(242, 242, 242) );
 }
 
 body,input,textarea {
@@ -171,5 +169,3 @@ footer{
     color : gold;
     padding: 16px 0;
 }
-
-
