@@ -52,7 +52,9 @@ header  nav li a{
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
+    display: block;
 }
+
 
 header .container,
 section .container {
@@ -92,9 +94,15 @@ section p {
     margin-bottom: 8px;
 }
 
-.store-front {
-    margin-right: 32px;
+.store-front, .store-front2 {
+    width: 100%;
+    max-width: 100%;
+    width: 3000vh;
+    height: auto;
+    object-fit: cover;
+    padding-right: 10px;
 }
+
 
 .social-links img{
     height: 24px;
