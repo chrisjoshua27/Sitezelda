@@ -8,6 +8,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Triforce;
+    
 }
 
 font header,
@@ -17,6 +18,11 @@ form button {
     font-family: Triforce;
     font-weight: normal;
     font-size: 2em;
+}
+body {
+    background-image: linear-gradient(to right , rgba(0, 128, 0, 0.212), rgba(128, 126, 0, 0.777), rgba(37, 255, 17, 0.288) );*/
+
+
 }
 
 body,input,textarea {
@@ -28,6 +34,8 @@ header {
     padding: 16px 0;
     background-color:green;
     color: rgb(218, 199, 32);
+    position: fixed;
+    width: 100%;
 }
 
 header  nav li{
